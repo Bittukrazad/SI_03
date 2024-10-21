@@ -35,4 +35,5 @@ The model uses the sigmoid function to calculate probabilities and the gradient 
 The final model can predict the class of new inputs by applying the trained logistic function.
 
 Summary
+
 This project provides a hands-on approach to understanding and implementing Linear and Logistic Regression models, offering insight into their mechanics and applications in predictive modeling and binary classification tasks.
