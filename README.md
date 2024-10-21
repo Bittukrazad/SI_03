@@ -19,6 +19,7 @@ Gradient descent is applied to optimize the model by updating the weights iterat
 The model learns from the training data and can predict new values based on unseen inputs.
 
 2. Logistic Regression
+   
 Logistic Regression is a classification algorithm used to predict the probability of a binary outcome. Unlike Linear Regression, which predicts continuous values, Logistic Regression estimates the probability of an instance belonging to a particular class (e.g., class 0 or class 1).
 
 Concept:
